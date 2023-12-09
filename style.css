@@ -1,0 +1,12 @@
+.container-fluid {
+    padding-bottom: 10px;
+}
+
+.subcontainer {
+    padding-top: 10px;
+}
+
+.carouselContainer {
+    padding-bottom: 10px;
+    height: auto;
+}
